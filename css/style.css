@@ -1283,7 +1283,11 @@ h3 {
 
 /* line 4, ../../Arafath/CL/CL October/215. Photography/HTML/scss/_slider.scss */
 .slider_bg_2 {
-  background-image: url(../img/banner/banner1.png);
+  background-image: url(../img/banner/banner2.png);
+}
+
+.slider_bg_3 {
+  background-image: url(../img/banner/banner3.png);
 }
 
 /* line 8, ../../Arafath/CL/CL October/215. Photography/HTML/scss/_slider.scss */
